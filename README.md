@@ -13,7 +13,7 @@ A Python data analysis tool that processes student marks, assigns grades, and vi
 - Saves charts as PNG files
 
 ## Tech Stack
-`Python` `Pandas` `Matplotlib`
+'Python' 'Pandas' 'Matplotlib'
 
 ## Project Context
 Built as part of my B.Sc (Hons.) Computer Science coursework at Keshav Mahavidyalaya, University of Delhi.
